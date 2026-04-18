@@ -1,0 +1,9 @@
+curl -X GET https://api.github.com/repos/punit-0522/github-final-project
+
+{
+  "full_name": "punit-0522/github-final-project",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
